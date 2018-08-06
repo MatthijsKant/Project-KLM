@@ -1,1 +1,2 @@
 # Project-KLM
+In this project, four investment opportunities are evaluated for KLM Group considering the following aircrafts: Airbus A350-900, Boeing 777-300, Boeing 787-9, Airbus A380-800. Using the Analytical Hierarchy Process (AHP) method, the investments are assessed using both financial and non-financial criteria. A Monte Carlo simulation was conducted using 2,500 trials to determine the most viable opportunity. Furthermore, a PESTEL and SWOT analyses were carried out to provide additional insight into the organization as a whole and it’s financial position.
